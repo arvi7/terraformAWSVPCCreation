@@ -1,3 +1,6 @@
+/* Here we write code for the providers.
+For us in this project we mainsly use AWS.
+*/
 terraform {
   required_providers {
     aws = {
